@@ -43,6 +43,5 @@ ja se on ainoa ylläpitäjä, ylläpitäjän käyttäjä on vakiintuinen eikä t
 
 
 Sovellus on testattavissa fly.ion kautta. 
-https://web-blog.fly.dev/
-Jos haluat testata tämä sovellus paikallisesti, niin kannattaa muokkaa db.py ennen käynnistämistä. 
-Kurssin ohjeen mukaan.
+https://web-blog.fly.dev/ (Palvelin voi lakata toimimasta maksun puuttuessa.)
+Jos haluat testata tämä sovellus paikallisesti, niin kannattaa muokkaa db.py paikalliseen käynnistykseen. 
